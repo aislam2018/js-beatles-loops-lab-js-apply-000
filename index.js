@@ -28,4 +28,5 @@ function iLoveTheBeatles(counter) {
     arr.push("I love the Beatles!");
     counter++;
   } while (counter <= 15);
+}
 
